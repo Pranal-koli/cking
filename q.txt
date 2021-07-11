@@ -8,7 +8,7 @@ this.fun();
   
  void fun()
   {
-System.out.println("Parent method");  
+System.out.println("Parent method"); //Good 
 	  
   }
 }
